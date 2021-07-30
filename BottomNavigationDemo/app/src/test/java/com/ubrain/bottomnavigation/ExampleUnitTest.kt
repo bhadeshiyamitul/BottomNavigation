@@ -1,4 +1,4 @@
-package com.ubrain.bottomnavigationdemo
+package com.ubrain.bottomnavigation
 
 import org.junit.Test
 
